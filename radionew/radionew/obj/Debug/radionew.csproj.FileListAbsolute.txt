@@ -1,0 +1,15 @@
+C:\Users\crngm\source\repos\radionew\radionew\bin\Debug\radionew.exe.config
+C:\Users\crngm\source\repos\radionew\radionew\bin\Debug\radionew.exe
+C:\Users\crngm\source\repos\radionew\radionew\bin\Debug\radionew.pdb
+C:\Users\crngm\source\repos\radionew\radionew\bin\Debug\Interop.WMPLib.dll
+C:\Users\crngm\source\repos\radionew\radionew\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\crngm\source\repos\radionew\radionew\obj\Debug\radionew.csprojAssemblyReference.cache
+C:\Users\crngm\source\repos\radionew\radionew\obj\Debug\Interop.WMPLib.dll
+C:\Users\crngm\source\repos\radionew\radionew\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\crngm\source\repos\radionew\radionew\obj\Debug\radionew.csproj.ResolveComReference.cache
+C:\Users\crngm\source\repos\radionew\radionew\obj\Debug\radionew.music_player.resources
+C:\Users\crngm\source\repos\radionew\radionew\obj\Debug\radionew.Properties.Resources.resources
+C:\Users\crngm\source\repos\radionew\radionew\obj\Debug\radionew.csproj.GenerateResource.cache
+C:\Users\crngm\source\repos\radionew\radionew\obj\Debug\radionew.csproj.CoreCompileInputs.cache
+C:\Users\crngm\source\repos\radionew\radionew\obj\Debug\radionew.exe
+C:\Users\crngm\source\repos\radionew\radionew\obj\Debug\radionew.pdb
